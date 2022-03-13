@@ -6,64 +6,24 @@
       "id": 1
     },
     {
-      "title": "lays",
+      "title": "kurkure",
       "status": false,
       "id": 2
     },
     {
-      "title": "lays",
+      "title": "chips",
       "status": false,
       "id": 3
     },
     {
-      "title": "lays",
+      "title": "oreo",
       "status": false,
       "id": 4
     },
     {
-      "title": "lays",
+      "title": "bourboune",
       "status": false,
       "id": 5
-    },
-    {
-      "title": "lays",
-      "status": false,
-      "id": 6
-    },
-    {
-      "title": "lays",
-      "status": false,
-      "id": 7
-    },
-    {
-      "title": "lays",
-      "status": false,
-      "id": 8
-    },
-    {
-      "title": "lays",
-      "status": false,
-      "id": 9
-    },
-    {
-      "title": "lays",
-      "status": false,
-      "id": 10
-    },
-    {
-      "title": "kurkure",
-      "status": false,
-      "id": 11
-    },
-    {
-      "title": "chips",
-      "status": false,
-      "id": 12
-    },
-    {
-      "title": "sonpapdi",
-      "status": false,
-      "id": 13
     }
   ]
 }
